@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+moviefilter_env/
+*.sqlite3
+
+# Data / models / output
+data/*.mp4
+output/
+models/
